@@ -1,0 +1,49 @@
+img{
+	float:left;
+	width: 250px;
+	height:250px;
+	margin: 12px;
+}
+
+body{
+	background-color: 	MintCream;
+	width:1000px;
+}
+h1{
+	color: darkgreen;
+	font-size: 30pt;
+	text-align: center;
+	font-family: 'Open sans';
+	background-color: 	Lavender;
+}
+p{
+	color: darkblue;
+	font-family:'times';
+	font-size: 16pt;
+	text-align:justify;
+}
+
+h2{
+	color: darkgreen;
+	font-family :'Open sans';
+	text-align: center;
+	font-size: 20pt;
+	background-color: Lavender;
+}
+
+ul{
+	color: darkblue;
+	font-family: 'times';
+	font-size: 16pt;
+}
+a{
+	color: BlueViolet;
+	
+}
+
+#etiqueta01{
+	background-color: Lavender;
+	border-width:2px;
+	border-style: solid;
+	height:280px;
+}
